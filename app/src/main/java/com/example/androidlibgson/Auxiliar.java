@@ -52,4 +52,4 @@ public class Auxiliar {
         }//finally
         return sb.toString();
     }//method
-}
+}//class
